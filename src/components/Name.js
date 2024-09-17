@@ -23,7 +23,7 @@ function Name() {
   return (
     <div className="fixed flex flex-col justify-center items-center h-screen pl-14">
       <img
-        src="/my-portfolio/A-letter.jpg"
+        src="/my-portfolio/photo.jpg"
         alt="my pic"
         className="h-52 w-48 rounded-full object-cover border-white border-2"
       />
