@@ -24,7 +24,7 @@ function Name() {
     <div className="fixed flex flex-col justify-center items-center h-screen pl-14">
       <img
         src="https://leodicap99.github.io/my-portfolio/photo.jpg"
-        alt="my pic"
+        alt="yolo mguh"
         className="h-52 w-48 rounded-full object-cover border-white border-2"
       />
       <h1 className="text-amber-50 text-5xl pt-9 ">Aditya Sankara Kumar</h1>
