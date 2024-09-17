@@ -2,7 +2,7 @@ import { FaGithub, FaGoodreads, FaLinkedin } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 import { SiLeetcode } from "react-icons/si";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-
+import photo from './photo.jpg'
 function Name() {
   const [text] = useTypewriter({
     words: [
@@ -23,7 +23,7 @@ function Name() {
   return (
     <div className="fixed flex flex-col justify-center items-center h-screen pl-14">
       <img
-        src="./my-portfolio/photo.jpg"
+        src={photo}
         alt="my pic"
         className="h-52 w-48 rounded-full object-cover border-white border-2"
       />
