@@ -6,7 +6,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 function Name() {
   const [text] = useTypewriter({
     words: [
-      "Software Developer",
+      "Frontend Developer",
       "JavaScript",
       "TypeScript",
       "React",
